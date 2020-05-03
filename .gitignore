@@ -5,3 +5,13 @@ __pycache__/
 # VSCode
 .vscode/
 
+
+# Mini Challenges
+# Automation & Integration
+
+# Credentials
+data-dev-mini-challenges/automation-and-integration/python/credendtials/email.py
+data-dev-mini-challenges/automation-and-integration/python/credendtials/tableau.py
+
+# Data
+data-dev-mini-challenges/automation-and-integration/data/workbook_owners.csv

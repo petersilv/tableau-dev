@@ -10,8 +10,8 @@ __pycache__/
 # Automation & Integration
 
 # Credentials
-data-dev-mini-challenges/automation-and-integration/python/credendtials/email.py
-data-dev-mini-challenges/automation-and-integration/python/credendtials/tableau.py
+data-dev-mini-challenges/automation-and-integration/python/credentials/email.py
+data-dev-mini-challenges/automation-and-integration/python/credentials/tableau.py
 
 # Data
 data-dev-mini-challenges/automation-and-integration/data/workbook_owners.csv

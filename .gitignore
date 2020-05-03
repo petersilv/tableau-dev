@@ -2,12 +2,6 @@
 __pycache__/
 *.py[cod]
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
 # VSCode
 .vscode/
 
-# Credentials
-_email.py
-_tableau.py

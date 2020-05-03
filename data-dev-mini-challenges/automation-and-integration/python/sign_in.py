@@ -23,6 +23,8 @@ def sign_in():
 
     print(f'Sign in to site {creds.site} successful.\n')
 
+    # print(f'Authentication details:\n\n{json.dumps(auth, indent=2)}')
+
     return auth
 
 

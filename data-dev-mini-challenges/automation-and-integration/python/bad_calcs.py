@@ -2,8 +2,6 @@
 from credentials import tableau as creds
 from utils import send_email, metadata_query
 
-import json
-
 import tableauserverclient as tsc
 
 # ----------------------------------------------------------------------------
@@ -106,3 +104,7 @@ def email_users_with_bad_calculations():
         send_email.send(recipient = w['owner']['email'], 
                         subject   = 'Tableau Server Status Report: Poorly Named Calculations', 
                         message   = message)
+
+
+if __name__ == "__main__":
+    email_users_with_bad_calculations()

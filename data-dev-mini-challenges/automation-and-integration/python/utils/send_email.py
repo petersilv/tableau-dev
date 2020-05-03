@@ -33,3 +33,6 @@ def send(recipient, subject, message):
 
     session.quit()
     
+# ----------------------------------------------------------------------------
+# The above code is tweaked from an original blog post on Towards Data Science:
+# Blog link: https://towardsdatascience.com/email-automation-with-python-72c6da5eef52
